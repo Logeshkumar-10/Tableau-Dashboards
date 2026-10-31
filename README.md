@@ -8,10 +8,10 @@ Here I have some of my practiced dashboards using Tableau. I created these Dashb
 
 \# | Title | Date | Dashboard | Presentation
 ---|---|---|---|---|
-01 | Covid-19 Calender | Jan 2022 | [.twbx](files/Covid-19-Calender-twbx.twbx) | [PDF](files/Covid-19-Calender-PPTX.pdf)
-02 | Elective Subject analysis of my Clg Students | Mar 2022 | [.twbx](files/Elective-Subject-analysis-of-my-Clg-Students-twbx.twbx) | [PDF](files/Elective-Subject-analysis-of-my-Clg-Students-PPTX.pdf)
-03 | IMDB Movie Analysis | Oct 2021 | [.twbx](files/IMDB-Movie-Analysis-twbx.twbx) | [PDF](files/IMDB-Movie-Analysis-PPTX.pdf)
-04 | US E-Commerce Analysis | Mar 2022 | [.twbx](files/US-E-Commerce-Analysis-twbx.twbx) | [PDF](files/US-E-Commerce-Analysis-PPTX.pdf)
-05 | UK Bank Customer Analysis | Sep 2021 | [.twbx](files/UK-Bank-Customer-Analysis-twbx.twbx) | [PDF](files/UK-Bank-Customer-Analysis-PPTX.pdf)
-06 | Brazilian E-commerce Analysis | Sep 2021 | [.twbx](files/Brazilian-E-commerce-Analysis-twbx.twbx) | [PDF](files/Brazilian-E-commerce-Analysis-PPTX.pdf)
-07 | California Real Estate Analysis | Mar 2022 | [.twbx](files/California-Real-Estate-Analysis-twbx.twbx) | [PDF](files/California-Real-Estate-Analysis-PPTX.pdf)
+01 | Elective Subject analysis of my Clg Students | Mar 2022 | [.twbx](files/Elective-Subject-analysis-of-my-Clg-Students-twbx.twbx) | [PDF](files/Elective-Subject-analysis-of-my-Clg-Students-PPTX.pdf)
+02 | US E-Commerce Analysis | Mar 2022 | [.twbx](files/US-E-Commerce-Analysis-twbx.twbx) | [PDF](files/US-E-Commerce-Analysis-PPTX.pdf)
+03 | California Real Estate Analysis | Mar 2022 | [.twbx](files/California-Real-Estate-Analysis-twbx.twbx) | [PDF](files/California-Real-Estate-Analysis-PPTX.pdf)
+04 | Covid-19 Calender | Jan 2022 | [.twbx](files/Covid-19-Calender-twbx.twbx) | [PDF](files/Covid-19-Calender-PPTX.pdf)
+05 | IMDB Movie Analysis | Oct 2021 | [.twbx](files/IMDB-Movie-Analysis-twbx.twbx) | [PDF](files/IMDB-Movie-Analysis-PPTX.pdf)
+06 | UK Bank Customer Analysis | Sep 2021 | [.twbx](files/UK-Bank-Customer-Analysis-twbx.twbx) | [PDF](files/UK-Bank-Customer-Analysis-PPTX.pdf)
+07 | Brazilian E-commerce Analysis | Sep 2021 | [.twbx](files/Brazilian-E-commerce-Analysis-twbx.twbx) | [PDF](files/Brazilian-E-commerce-Analysis-PPTX.pdf)
